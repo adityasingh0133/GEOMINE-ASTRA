@@ -1,0 +1,29 @@
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
+
+# Environment variables and local secrets
+.env*
+!.env.example
+!.env.*.example
+.npmrc
+*.pem
+*.key
+
+# Dependencies and generated output
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+.pnpm-store/
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
