@@ -6,4 +6,5 @@ Login credentials emails & password
 3. Email- manager@geomine-astra.demo Password-Manager@Inspect26
 # GEOMINE-ASTRA
 GEOMINE-ASTRA — AI-Based Smart Governance and Compliance Monitoring Dashboard for Coal Mines.
+
 TrustDocs-AI— AI-powered Document Extraction and Processing Module.
